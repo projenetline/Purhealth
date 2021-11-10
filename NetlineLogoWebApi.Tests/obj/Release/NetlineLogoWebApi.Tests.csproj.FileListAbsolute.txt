@@ -1,0 +1,2 @@
+C:\Users\TAMERCAN\Documents\Projects\NetlineLogoWebApi\NetlineLogoWebApi.Tests\obj\Release\NetlineLogoWebApi.Tests.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\Projects\NetlineLogoWebApi\NetlineLogoWebApi.Tests\obj\Release\NetlineLogoWebApi.Tests.csproj.CoreCompileInputs.cache
